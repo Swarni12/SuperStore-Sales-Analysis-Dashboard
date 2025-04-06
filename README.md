@@ -3,7 +3,7 @@
 This Tableau project presents an interactive dashboard that analyzes SuperStore sales data across multiple years, focusing on sales performance, profit distribution, and discount impact across U.S. states and product categories.
 
 ### Dashboard Preview:
-![Dashboard Preview]([https://github.com/Swarni12/Age-Detector-using-CNN/blob/main/Output%201.png](https://github.com/Swarni12/SuperStore-Sales-Analysis-Dashboard/blob/main/SuperStore%2520Sales%2520Analysis%2520Dashboard.png.png))
+![Dashboard Preview](SuperStore%20Sales%20Analysis%20Dashboard.png)
 
 
 ## 🧠 Insights Covered
